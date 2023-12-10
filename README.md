@@ -32,7 +32,7 @@ Step by step:
 
 mykey.pem you have to get using step 1.2
 # Start 
-4.1 Type the commands on you Terrafom instance:
+4.1 Type the commands on your Terrafom instance:
    
    #cd /your folder 
 

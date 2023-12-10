@@ -13,6 +13,7 @@ Step by step:
 5. Type the commands :
 
    #cd /your folder
+   
    #terraform init
 # Ansible
 

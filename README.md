@@ -42,3 +42,8 @@ mykey.pem you have to get using step 1.2
    #terraform apply  
    
    #yes
+
+.. image:: /images/aws.png
+   :width: 80%
+   :align: center
+   :alt: Network Topology Diagram

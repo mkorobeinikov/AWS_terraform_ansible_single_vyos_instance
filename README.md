@@ -3,6 +3,7 @@ How to create a single instance and install your configuration using Terraform+A
 Step by step:
 # AWS
 1.1 Create an account with AWS and get your "access_key", "secret key"
+
 1.2 Create a key pair and download your .pem key
 1.3 Create a security group for the new VyOS instance
 # Terraform

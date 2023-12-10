@@ -15,6 +15,7 @@ Step by step:
 2.3 Create the folder for example ../awsvyos/
 
 2.4 Copy all files from my folder /Terraform into your Terraform project (vyos.tf, var.tf)
+2.4.1 Please type the information into the strings 22, 35, 36 of file "vyos.tf"
 
 2.5 Type the commands :
 

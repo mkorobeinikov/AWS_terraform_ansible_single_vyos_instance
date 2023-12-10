@@ -43,7 +43,4 @@ mykey.pem you have to get using step 1.2
    
    #yes
 
-.. image:: /images/aws.png
-   :width: 80%
-   :align: center
-   :alt: Network Topology Diagram
+![ezcv logo](/images/aws.png)

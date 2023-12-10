@@ -19,7 +19,7 @@ variable "region" {
 }
 
 variable "ami" {
- default = "ami-**************"                        # Yor ami image please enter your details  
+ default = "ami-**************"                        # ami image please enter your details  
  description = "Amazon Machine Image ID for VyOS"
 }
 

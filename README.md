@@ -11,6 +11,7 @@ Step by step:
 3. Create the folder for example ../awsvyos/
 4. Copy all files from my folder /Terraform into your Terraform project (vyos.tf, var.tf)
 5. Type the commands :
+
    #cd /your folder
    #terraform init
 # Ansible
